@@ -1,0 +1,13 @@
+C:\Users\jbetb\source\repos\HW1 - Mad Libs\HW1 - Mad Libs\obj\Debug\netcoreapp3.1\HW1 - Mad Libs.csprojAssemblyReference.cache
+C:\Users\jbetb\source\repos\HW1 - Mad Libs\HW1 - Mad Libs\obj\Debug\netcoreapp3.1\HW1 - Mad Libs.AssemblyInfoInputs.cache
+C:\Users\jbetb\source\repos\HW1 - Mad Libs\HW1 - Mad Libs\obj\Debug\netcoreapp3.1\HW1 - Mad Libs.AssemblyInfo.cs
+C:\Users\jbetb\source\repos\HW1 - Mad Libs\HW1 - Mad Libs\obj\Debug\netcoreapp3.1\HW1 - Mad Libs.csproj.CoreCompileInputs.cache
+C:\Users\jbetb\source\repos\HW1 - Mad Libs\HW1 - Mad Libs\bin\Debug\netcoreapp3.1\HW1 - Mad Libs.exe
+C:\Users\jbetb\source\repos\HW1 - Mad Libs\HW1 - Mad Libs\bin\Debug\netcoreapp3.1\HW1 - Mad Libs.deps.json
+C:\Users\jbetb\source\repos\HW1 - Mad Libs\HW1 - Mad Libs\bin\Debug\netcoreapp3.1\HW1 - Mad Libs.runtimeconfig.json
+C:\Users\jbetb\source\repos\HW1 - Mad Libs\HW1 - Mad Libs\bin\Debug\netcoreapp3.1\HW1 - Mad Libs.runtimeconfig.dev.json
+C:\Users\jbetb\source\repos\HW1 - Mad Libs\HW1 - Mad Libs\bin\Debug\netcoreapp3.1\HW1 - Mad Libs.dll
+C:\Users\jbetb\source\repos\HW1 - Mad Libs\HW1 - Mad Libs\bin\Debug\netcoreapp3.1\HW1 - Mad Libs.pdb
+C:\Users\jbetb\source\repos\HW1 - Mad Libs\HW1 - Mad Libs\obj\Debug\netcoreapp3.1\HW1 - Mad Libs.dll
+C:\Users\jbetb\source\repos\HW1 - Mad Libs\HW1 - Mad Libs\obj\Debug\netcoreapp3.1\HW1 - Mad Libs.pdb
+C:\Users\jbetb\source\repos\HW1 - Mad Libs\HW1 - Mad Libs\obj\Debug\netcoreapp3.1\HW1 - Mad Libs.genruntimeconfig.cache
