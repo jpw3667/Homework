@@ -1,0 +1,13 @@
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW2- Player Choice\HW2- Player Choice\bin\Debug\netcoreapp3.1\HW2- Player Choice.exe
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW2- Player Choice\HW2- Player Choice\bin\Debug\netcoreapp3.1\HW2- Player Choice.deps.json
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW2- Player Choice\HW2- Player Choice\bin\Debug\netcoreapp3.1\HW2- Player Choice.runtimeconfig.json
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW2- Player Choice\HW2- Player Choice\bin\Debug\netcoreapp3.1\HW2- Player Choice.runtimeconfig.dev.json
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW2- Player Choice\HW2- Player Choice\bin\Debug\netcoreapp3.1\HW2- Player Choice.dll
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW2- Player Choice\HW2- Player Choice\bin\Debug\netcoreapp3.1\HW2- Player Choice.pdb
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW2- Player Choice\HW2- Player Choice\obj\Debug\netcoreapp3.1\HW2- Player Choice.csprojAssemblyReference.cache
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW2- Player Choice\HW2- Player Choice\obj\Debug\netcoreapp3.1\HW2- Player Choice.AssemblyInfoInputs.cache
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW2- Player Choice\HW2- Player Choice\obj\Debug\netcoreapp3.1\HW2- Player Choice.AssemblyInfo.cs
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW2- Player Choice\HW2- Player Choice\obj\Debug\netcoreapp3.1\HW2- Player Choice.csproj.CoreCompileInputs.cache
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW2- Player Choice\HW2- Player Choice\obj\Debug\netcoreapp3.1\HW2- Player Choice.dll
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW2- Player Choice\HW2- Player Choice\obj\Debug\netcoreapp3.1\HW2- Player Choice.pdb
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW2- Player Choice\HW2- Player Choice\obj\Debug\netcoreapp3.1\HW2- Player Choice.genruntimeconfig.cache

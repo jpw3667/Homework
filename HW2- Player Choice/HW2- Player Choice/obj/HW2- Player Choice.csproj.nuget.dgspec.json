@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jbetb\\OneDrive\\Email attachments\\Documents\\GitHub\\Homework\\HW1 - Mad Libs\\HW1 - Mad Libs\\HW1 - Mad Libs.csproj": {}
+    "C:\\Users\\jbetb\\OneDrive\\Email attachments\\Documents\\GitHub\\Homework\\HW2- Player Choice\\HW2- Player Choice\\HW2- Player Choice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jbetb\\OneDrive\\Email attachments\\Documents\\GitHub\\Homework\\HW1 - Mad Libs\\HW1 - Mad Libs\\HW1 - Mad Libs.csproj": {
+    "C:\\Users\\jbetb\\OneDrive\\Email attachments\\Documents\\GitHub\\Homework\\HW2- Player Choice\\HW2- Player Choice\\HW2- Player Choice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jbetb\\OneDrive\\Email attachments\\Documents\\GitHub\\Homework\\HW1 - Mad Libs\\HW1 - Mad Libs\\HW1 - Mad Libs.csproj",
-        "projectName": "HW1 - Mad Libs",
-        "projectPath": "C:\\Users\\jbetb\\OneDrive\\Email attachments\\Documents\\GitHub\\Homework\\HW1 - Mad Libs\\HW1 - Mad Libs\\HW1 - Mad Libs.csproj",
+        "projectUniqueName": "C:\\Users\\jbetb\\OneDrive\\Email attachments\\Documents\\GitHub\\Homework\\HW2- Player Choice\\HW2- Player Choice\\HW2- Player Choice.csproj",
+        "projectName": "HW2- Player Choice",
+        "projectPath": "C:\\Users\\jbetb\\OneDrive\\Email attachments\\Documents\\GitHub\\Homework\\HW2- Player Choice\\HW2- Player Choice\\HW2- Player Choice.csproj",
         "packagesPath": "C:\\Users\\jbetb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jbetb\\OneDrive\\Email attachments\\Documents\\GitHub\\Homework\\HW1 - Mad Libs\\HW1 - Mad Libs\\obj\\",
+        "outputPath": "C:\\Users\\jbetb\\OneDrive\\Email attachments\\Documents\\GitHub\\Homework\\HW2- Player Choice\\HW2- Player Choice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jbetb\\AppData\\Roaming\\NuGet\\NuGet.Config",
