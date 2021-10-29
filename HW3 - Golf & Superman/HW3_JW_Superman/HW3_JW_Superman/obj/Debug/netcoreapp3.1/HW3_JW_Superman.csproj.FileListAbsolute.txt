@@ -10,3 +10,15 @@ C:\Users\jbetb\source\repos\HW3_JW_Superman\HW3_JW_Superman\obj\Debug\netcoreapp
 C:\Users\jbetb\source\repos\HW3_JW_Superman\HW3_JW_Superman\obj\Debug\netcoreapp3.1\HW3_JW_Superman.dll
 C:\Users\jbetb\source\repos\HW3_JW_Superman\HW3_JW_Superman\obj\Debug\netcoreapp3.1\HW3_JW_Superman.pdb
 C:\Users\jbetb\source\repos\HW3_JW_Superman\HW3_JW_Superman\obj\Debug\netcoreapp3.1\HW3_JW_Superman.genruntimeconfig.cache
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3 - Golf & Superman\HW3_JW_Superman\HW3_JW_Superman\bin\Debug\netcoreapp3.1\HW3_JW_Superman.exe
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3 - Golf & Superman\HW3_JW_Superman\HW3_JW_Superman\bin\Debug\netcoreapp3.1\HW3_JW_Superman.deps.json
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3 - Golf & Superman\HW3_JW_Superman\HW3_JW_Superman\bin\Debug\netcoreapp3.1\HW3_JW_Superman.runtimeconfig.json
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3 - Golf & Superman\HW3_JW_Superman\HW3_JW_Superman\bin\Debug\netcoreapp3.1\HW3_JW_Superman.runtimeconfig.dev.json
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3 - Golf & Superman\HW3_JW_Superman\HW3_JW_Superman\bin\Debug\netcoreapp3.1\HW3_JW_Superman.dll
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3 - Golf & Superman\HW3_JW_Superman\HW3_JW_Superman\bin\Debug\netcoreapp3.1\HW3_JW_Superman.pdb
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3 - Golf & Superman\HW3_JW_Superman\HW3_JW_Superman\obj\Debug\netcoreapp3.1\HW3_JW_Superman.AssemblyInfoInputs.cache
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3 - Golf & Superman\HW3_JW_Superman\HW3_JW_Superman\obj\Debug\netcoreapp3.1\HW3_JW_Superman.AssemblyInfo.cs
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3 - Golf & Superman\HW3_JW_Superman\HW3_JW_Superman\obj\Debug\netcoreapp3.1\HW3_JW_Superman.csproj.CoreCompileInputs.cache
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3 - Golf & Superman\HW3_JW_Superman\HW3_JW_Superman\obj\Debug\netcoreapp3.1\HW3_JW_Superman.dll
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3 - Golf & Superman\HW3_JW_Superman\HW3_JW_Superman\obj\Debug\netcoreapp3.1\HW3_JW_Superman.pdb
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3 - Golf & Superman\HW3_JW_Superman\HW3_JW_Superman\obj\Debug\netcoreapp3.1\HW3_JW_Superman.genruntimeconfig.cache

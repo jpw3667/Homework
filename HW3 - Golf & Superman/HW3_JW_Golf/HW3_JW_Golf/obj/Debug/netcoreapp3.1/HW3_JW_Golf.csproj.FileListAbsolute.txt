@@ -10,3 +10,16 @@ C:\Users\jbetb\source\repos\HW3_JW_Golf\HW3_JW_Golf\obj\Debug\netcoreapp3.1\HW3_
 C:\Users\jbetb\source\repos\HW3_JW_Golf\HW3_JW_Golf\obj\Debug\netcoreapp3.1\HW3_JW_Golf.dll
 C:\Users\jbetb\source\repos\HW3_JW_Golf\HW3_JW_Golf\obj\Debug\netcoreapp3.1\HW3_JW_Golf.pdb
 C:\Users\jbetb\source\repos\HW3_JW_Golf\HW3_JW_Golf\obj\Debug\netcoreapp3.1\HW3_JW_Golf.genruntimeconfig.cache
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3 - Golf & Superman\HW3_JW_Golf\HW3_JW_Golf\bin\Debug\netcoreapp3.1\HW3_JW_Golf.exe
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3 - Golf & Superman\HW3_JW_Golf\HW3_JW_Golf\bin\Debug\netcoreapp3.1\HW3_JW_Golf.deps.json
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3 - Golf & Superman\HW3_JW_Golf\HW3_JW_Golf\bin\Debug\netcoreapp3.1\HW3_JW_Golf.runtimeconfig.json
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3 - Golf & Superman\HW3_JW_Golf\HW3_JW_Golf\bin\Debug\netcoreapp3.1\HW3_JW_Golf.runtimeconfig.dev.json
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3 - Golf & Superman\HW3_JW_Golf\HW3_JW_Golf\bin\Debug\netcoreapp3.1\HW3_JW_Golf.dll
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3 - Golf & Superman\HW3_JW_Golf\HW3_JW_Golf\bin\Debug\netcoreapp3.1\HW3_JW_Golf.pdb
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3 - Golf & Superman\HW3_JW_Golf\HW3_JW_Golf\obj\Debug\netcoreapp3.1\HW3_JW_Golf.csprojAssemblyReference.cache
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3 - Golf & Superman\HW3_JW_Golf\HW3_JW_Golf\obj\Debug\netcoreapp3.1\HW3_JW_Golf.AssemblyInfoInputs.cache
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3 - Golf & Superman\HW3_JW_Golf\HW3_JW_Golf\obj\Debug\netcoreapp3.1\HW3_JW_Golf.AssemblyInfo.cs
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3 - Golf & Superman\HW3_JW_Golf\HW3_JW_Golf\obj\Debug\netcoreapp3.1\HW3_JW_Golf.csproj.CoreCompileInputs.cache
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3 - Golf & Superman\HW3_JW_Golf\HW3_JW_Golf\obj\Debug\netcoreapp3.1\HW3_JW_Golf.dll
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3 - Golf & Superman\HW3_JW_Golf\HW3_JW_Golf\obj\Debug\netcoreapp3.1\HW3_JW_Golf.pdb
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3 - Golf & Superman\HW3_JW_Golf\HW3_JW_Golf\obj\Debug\netcoreapp3.1\HW3_JW_Golf.genruntimeconfig.cache

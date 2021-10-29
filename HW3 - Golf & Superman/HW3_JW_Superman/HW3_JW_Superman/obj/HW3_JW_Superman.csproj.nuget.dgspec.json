@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jbetb\\source\\repos\\HW3_JW_Superman\\HW3_JW_Superman\\HW3_JW_Superman.csproj": {}
+    "C:\\Users\\jbetb\\OneDrive\\Email attachments\\Documents\\GitHub\\Homework\\HW3 - Golf & Superman\\HW3_JW_Superman\\HW3_JW_Superman\\HW3_JW_Superman.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jbetb\\source\\repos\\HW3_JW_Superman\\HW3_JW_Superman\\HW3_JW_Superman.csproj": {
+    "C:\\Users\\jbetb\\OneDrive\\Email attachments\\Documents\\GitHub\\Homework\\HW3 - Golf & Superman\\HW3_JW_Superman\\HW3_JW_Superman\\HW3_JW_Superman.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jbetb\\source\\repos\\HW3_JW_Superman\\HW3_JW_Superman\\HW3_JW_Superman.csproj",
+        "projectUniqueName": "C:\\Users\\jbetb\\OneDrive\\Email attachments\\Documents\\GitHub\\Homework\\HW3 - Golf & Superman\\HW3_JW_Superman\\HW3_JW_Superman\\HW3_JW_Superman.csproj",
         "projectName": "HW3_JW_Superman",
-        "projectPath": "C:\\Users\\jbetb\\source\\repos\\HW3_JW_Superman\\HW3_JW_Superman\\HW3_JW_Superman.csproj",
+        "projectPath": "C:\\Users\\jbetb\\OneDrive\\Email attachments\\Documents\\GitHub\\Homework\\HW3 - Golf & Superman\\HW3_JW_Superman\\HW3_JW_Superman\\HW3_JW_Superman.csproj",
         "packagesPath": "C:\\Users\\jbetb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jbetb\\source\\repos\\HW3_JW_Superman\\HW3_JW_Superman\\obj\\",
+        "outputPath": "C:\\Users\\jbetb\\OneDrive\\Email attachments\\Documents\\GitHub\\Homework\\HW3 - Golf & Superman\\HW3_JW_Superman\\HW3_JW_Superman\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jbetb\\AppData\\Roaming\\NuGet\\NuGet.Config",

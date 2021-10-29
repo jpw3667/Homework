@@ -14,7 +14,7 @@ namespace HW3_JW_Superman
         {
             String tryAgain = "Y";
 
-            Console.WriteLine("Your target building height is 660.");
+            Console.WriteLine("Your target building height is 660 feet.");
             Console.WriteLine("Please enter the gravitational constant for the planet on which superman");
             Console.WriteLine("is currently attempting this jump. Remember that the units should be in feet/second^2.");
 
@@ -33,6 +33,7 @@ namespace HW3_JW_Superman
                 }
             }
 
+            Console.WriteLine("");
             Console.WriteLine("Thanks for playing!");
         }
 
@@ -53,7 +54,7 @@ namespace HW3_JW_Superman
 
             jump = Math.Sqrt(gravity * 1320.0);
 
-            Console.WriteLine("Superman must jump with an initial velocity of at least {0} feet/second.", jump);
+            Console.WriteLine("Superman must jump with an initial velocity of at least {0} feet/second.", Math.Round(jump,12));
         }
     }
 }

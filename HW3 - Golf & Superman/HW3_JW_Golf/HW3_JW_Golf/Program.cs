@@ -50,23 +50,24 @@ namespace HW3_JW_Golf
             bool success = false;
 
 
-
-            //Ask user for starting veloctiy
-            Console.Write("Please input the cannonball's initial velocity as a positive number in meters per second: ");
-            success = double.TryParse(Console.ReadLine(), out velocity);
-            while (velocity <= 0)
-            {
-                Console.Write("You did not give me a valid velocity. Please try again: ");
-                success = double.TryParse(Console.ReadLine(), out velocity);
-            }
-
             //Ask user for starting angle
-            Console.Write("Please input the cannon's starting angle between 0 and 90: ");
+            Console.Write("Please input the cannon's starting angle (between 0 and 90 degrees): ");
             success = double.TryParse(Console.ReadLine(), out angle);
             while (angle <= 0 || angle >= 90)
             {
                 Console.Write("You did not give me a valid angle. Please try again: ");
                 success = double.TryParse(Console.ReadLine(), out angle);
+            }
+
+            Console.WriteLine("");
+
+            //Ask user for starting veloctiy
+            Console.Write("Please input the cannonball's initial velocity (a positive number): ");
+            success = double.TryParse(Console.ReadLine(), out velocity);
+            while (velocity <= 0)
+            {
+                Console.Write("You did not give me a valid velocity. Please try again: ");
+                success = double.TryParse(Console.ReadLine(), out velocity);
             }
 
             //Convert from degrees to radians.
@@ -85,19 +86,19 @@ namespace HW3_JW_Golf
             if (distance >= 750.5 && distance <= 751.5)
             {
                 if (distance >= 751)
-                    Console.WriteLine("You are {0} meters away from the target. A successful hit!", distance - 751);
+                    Console.WriteLine("You are {0} meters away from the target. A successful hit!", Math.Round(distance - 751, 12));
                 else
                 {
-                    Console.WriteLine("You are {0} meters away from the target. A successful hit!", 751 - distance);
+                    Console.WriteLine("You are {0} meters away from the target. A successful hit!", Math.Round(751 - distance,12));
                 }
                 return true;
             }
 
             if (distance >= 751)
-                Console.WriteLine("You are {0} meters away from the target. Try again!", distance - 751);
+                Console.WriteLine("You are {0} meters away from the target. Try again!", Math.Round(distance - 751, 12));
             else
             {
-                Console.WriteLine("You are {0} meters away from the target. Try again!", 751 - distance);
+                Console.WriteLine("You are {0} meters away from the target. Try again!", Math.Round(751 - distance,12));
             }
             return false;
         }
