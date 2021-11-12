@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JPW_GDAPS1_Exam2", "JPW_GDAPS1_Exam2\JPW_GDAPS1_Exam2.csproj", "{9C3BBFD4-035F-4E2C-8A93-F2109386C2BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C3BBFD4-035F-4E2C-8A93-F2109386C2BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C3BBFD4-035F-4E2C-8A93-F2109386C2BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C3BBFD4-035F-4E2C-8A93-F2109386C2BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C3BBFD4-035F-4E2C-8A93-F2109386C2BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {882F00F0-FA85-448A-8DAB-3963AA999357}
+	EndGlobalSection
+EndGlobal
