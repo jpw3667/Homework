@@ -1,0 +1,13 @@
+C:\Users\jbetb\source\repos\HW 5 - Analyzing Monopoly\HW 5 - Analyzing Monopoly\bin\Debug\netcoreapp3.1\HW 5 - Analyzing Monopoly.exe
+C:\Users\jbetb\source\repos\HW 5 - Analyzing Monopoly\HW 5 - Analyzing Monopoly\bin\Debug\netcoreapp3.1\HW 5 - Analyzing Monopoly.deps.json
+C:\Users\jbetb\source\repos\HW 5 - Analyzing Monopoly\HW 5 - Analyzing Monopoly\bin\Debug\netcoreapp3.1\HW 5 - Analyzing Monopoly.runtimeconfig.json
+C:\Users\jbetb\source\repos\HW 5 - Analyzing Monopoly\HW 5 - Analyzing Monopoly\bin\Debug\netcoreapp3.1\HW 5 - Analyzing Monopoly.runtimeconfig.dev.json
+C:\Users\jbetb\source\repos\HW 5 - Analyzing Monopoly\HW 5 - Analyzing Monopoly\bin\Debug\netcoreapp3.1\HW 5 - Analyzing Monopoly.dll
+C:\Users\jbetb\source\repos\HW 5 - Analyzing Monopoly\HW 5 - Analyzing Monopoly\bin\Debug\netcoreapp3.1\HW 5 - Analyzing Monopoly.pdb
+C:\Users\jbetb\source\repos\HW 5 - Analyzing Monopoly\HW 5 - Analyzing Monopoly\obj\Debug\netcoreapp3.1\HW 5 - Analyzing Monopoly.csprojAssemblyReference.cache
+C:\Users\jbetb\source\repos\HW 5 - Analyzing Monopoly\HW 5 - Analyzing Monopoly\obj\Debug\netcoreapp3.1\HW 5 - Analyzing Monopoly.AssemblyInfoInputs.cache
+C:\Users\jbetb\source\repos\HW 5 - Analyzing Monopoly\HW 5 - Analyzing Monopoly\obj\Debug\netcoreapp3.1\HW 5 - Analyzing Monopoly.AssemblyInfo.cs
+C:\Users\jbetb\source\repos\HW 5 - Analyzing Monopoly\HW 5 - Analyzing Monopoly\obj\Debug\netcoreapp3.1\HW 5 - Analyzing Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\jbetb\source\repos\HW 5 - Analyzing Monopoly\HW 5 - Analyzing Monopoly\obj\Debug\netcoreapp3.1\HW 5 - Analyzing Monopoly.dll
+C:\Users\jbetb\source\repos\HW 5 - Analyzing Monopoly\HW 5 - Analyzing Monopoly\obj\Debug\netcoreapp3.1\HW 5 - Analyzing Monopoly.pdb
+C:\Users\jbetb\source\repos\HW 5 - Analyzing Monopoly\HW 5 - Analyzing Monopoly\obj\Debug\netcoreapp3.1\HW 5 - Analyzing Monopoly.genruntimeconfig.cache
