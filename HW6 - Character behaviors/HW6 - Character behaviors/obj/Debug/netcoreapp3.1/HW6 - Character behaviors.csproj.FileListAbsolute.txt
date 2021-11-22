@@ -1,0 +1,13 @@
+C:\Users\jbetb\source\repos\HW6 - Character behaviors\HW6 - Character behaviors\bin\Debug\netcoreapp3.1\HW6 - Character behaviors.exe
+C:\Users\jbetb\source\repos\HW6 - Character behaviors\HW6 - Character behaviors\bin\Debug\netcoreapp3.1\HW6 - Character behaviors.deps.json
+C:\Users\jbetb\source\repos\HW6 - Character behaviors\HW6 - Character behaviors\bin\Debug\netcoreapp3.1\HW6 - Character behaviors.runtimeconfig.json
+C:\Users\jbetb\source\repos\HW6 - Character behaviors\HW6 - Character behaviors\bin\Debug\netcoreapp3.1\HW6 - Character behaviors.runtimeconfig.dev.json
+C:\Users\jbetb\source\repos\HW6 - Character behaviors\HW6 - Character behaviors\bin\Debug\netcoreapp3.1\HW6 - Character behaviors.dll
+C:\Users\jbetb\source\repos\HW6 - Character behaviors\HW6 - Character behaviors\bin\Debug\netcoreapp3.1\HW6 - Character behaviors.pdb
+C:\Users\jbetb\source\repos\HW6 - Character behaviors\HW6 - Character behaviors\obj\Debug\netcoreapp3.1\HW6 - Character behaviors.csprojAssemblyReference.cache
+C:\Users\jbetb\source\repos\HW6 - Character behaviors\HW6 - Character behaviors\obj\Debug\netcoreapp3.1\HW6 - Character behaviors.AssemblyInfoInputs.cache
+C:\Users\jbetb\source\repos\HW6 - Character behaviors\HW6 - Character behaviors\obj\Debug\netcoreapp3.1\HW6 - Character behaviors.AssemblyInfo.cs
+C:\Users\jbetb\source\repos\HW6 - Character behaviors\HW6 - Character behaviors\obj\Debug\netcoreapp3.1\HW6 - Character behaviors.csproj.CoreCompileInputs.cache
+C:\Users\jbetb\source\repos\HW6 - Character behaviors\HW6 - Character behaviors\obj\Debug\netcoreapp3.1\HW6 - Character behaviors.dll
+C:\Users\jbetb\source\repos\HW6 - Character behaviors\HW6 - Character behaviors\obj\Debug\netcoreapp3.1\HW6 - Character behaviors.pdb
+C:\Users\jbetb\source\repos\HW6 - Character behaviors\HW6 - Character behaviors\obj\Debug\netcoreapp3.1\HW6 - Character behaviors.genruntimeconfig.cache
