@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HW6 - Character behaviors/1.0.0": {
+        "runtime": {
+          "HW6 - Character behaviors.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HW6 - Character behaviors/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
