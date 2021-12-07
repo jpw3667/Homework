@@ -101,6 +101,12 @@ namespace HW8_BattleDamage
 
                 Console.WriteLine("\tTotal Damage Done: " + damageDone + "\n");
 
+                if(ship2.isDestroyed())
+                {
+                    Console.WriteLine(ship1.Name + " is the winner!");
+                    System.Environment.Exit(0);
+                }
+
                 Console.WriteLine("{0} will now attack {1}.\n", ship2.Name, ship1.Name);
 
                 Console.Write("\t");
@@ -121,22 +127,12 @@ namespace HW8_BattleDamage
 
                 Console.WriteLine("\tTotal Damage Done: " + damageDone + "\n");
 
-                if (ship2.isDestroyed())
-                {
-                    Console.WriteLine(ship1.Name + " is the winner!");
-                    gameOver = true;
-                }
-                else if (ship1.isDestroyed())
+                if (ship1.isDestroyed())
                 {
                     Console.WriteLine(ship2.Name + " is the winner!");
-                    gameOver = true;
+                    System.Environment.Exit(0);
                 }
-                else if (ship1.isDestroyed() && ship2.isDestroyed())
-                {
-                    Console.WriteLine("It's a tie!");
-                    gameOver = true;
-                }
-
+               
                 turn++;
 
             }
