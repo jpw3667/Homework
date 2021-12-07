@@ -1,0 +1,13 @@
+C:\Users\jbetb\OneDrive\Email attachments\Documents\school\HW8_BattleDamage\obj\Debug\netcoreapp3.1\HW8_BattleDamage.csprojAssemblyReference.cache
+C:\Users\jbetb\OneDrive\Email attachments\Documents\school\HW8_BattleDamage\obj\Debug\netcoreapp3.1\HW8_BattleDamage.AssemblyInfoInputs.cache
+C:\Users\jbetb\OneDrive\Email attachments\Documents\school\HW8_BattleDamage\obj\Debug\netcoreapp3.1\HW8_BattleDamage.AssemblyInfo.cs
+C:\Users\jbetb\OneDrive\Email attachments\Documents\school\HW8_BattleDamage\obj\Debug\netcoreapp3.1\HW8_BattleDamage.csproj.CoreCompileInputs.cache
+C:\Users\jbetb\OneDrive\Email attachments\Documents\school\HW8_BattleDamage\bin\Debug\netcoreapp3.1\HW8_BattleDamage.exe
+C:\Users\jbetb\OneDrive\Email attachments\Documents\school\HW8_BattleDamage\bin\Debug\netcoreapp3.1\HW8_BattleDamage.deps.json
+C:\Users\jbetb\OneDrive\Email attachments\Documents\school\HW8_BattleDamage\bin\Debug\netcoreapp3.1\HW8_BattleDamage.runtimeconfig.json
+C:\Users\jbetb\OneDrive\Email attachments\Documents\school\HW8_BattleDamage\bin\Debug\netcoreapp3.1\HW8_BattleDamage.runtimeconfig.dev.json
+C:\Users\jbetb\OneDrive\Email attachments\Documents\school\HW8_BattleDamage\bin\Debug\netcoreapp3.1\HW8_BattleDamage.dll
+C:\Users\jbetb\OneDrive\Email attachments\Documents\school\HW8_BattleDamage\bin\Debug\netcoreapp3.1\HW8_BattleDamage.pdb
+C:\Users\jbetb\OneDrive\Email attachments\Documents\school\HW8_BattleDamage\obj\Debug\netcoreapp3.1\HW8_BattleDamage.dll
+C:\Users\jbetb\OneDrive\Email attachments\Documents\school\HW8_BattleDamage\obj\Debug\netcoreapp3.1\HW8_BattleDamage.pdb
+C:\Users\jbetb\OneDrive\Email attachments\Documents\school\HW8_BattleDamage\obj\Debug\netcoreapp3.1\HW8_BattleDamage.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jbetb\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jbetb\\.nuget\\packages"
+    ]
+  }
+}
