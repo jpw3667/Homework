@@ -1,0 +1,13 @@
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3_LinkedLists_STARTER\obj\Debug\netcoreapp3.1\HW3_LinkedLists.csprojAssemblyReference.cache
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3_LinkedLists_STARTER\obj\Debug\netcoreapp3.1\HW3_LinkedLists.AssemblyInfoInputs.cache
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3_LinkedLists_STARTER\obj\Debug\netcoreapp3.1\HW3_LinkedLists.AssemblyInfo.cs
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3_LinkedLists_STARTER\obj\Debug\netcoreapp3.1\HW3_LinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3_LinkedLists_STARTER\bin\Debug\netcoreapp3.1\HW3_LinkedLists.exe
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3_LinkedLists_STARTER\bin\Debug\netcoreapp3.1\HW3_LinkedLists.deps.json
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3_LinkedLists_STARTER\bin\Debug\netcoreapp3.1\HW3_LinkedLists.runtimeconfig.json
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3_LinkedLists_STARTER\bin\Debug\netcoreapp3.1\HW3_LinkedLists.runtimeconfig.dev.json
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3_LinkedLists_STARTER\bin\Debug\netcoreapp3.1\HW3_LinkedLists.dll
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3_LinkedLists_STARTER\bin\Debug\netcoreapp3.1\HW3_LinkedLists.pdb
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3_LinkedLists_STARTER\obj\Debug\netcoreapp3.1\HW3_LinkedLists.dll
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3_LinkedLists_STARTER\obj\Debug\netcoreapp3.1\HW3_LinkedLists.pdb
+C:\Users\jbetb\OneDrive\Email attachments\Documents\GitHub\Homework\HW3_LinkedLists_STARTER\obj\Debug\netcoreapp3.1\HW3_LinkedLists.genruntimeconfig.cache

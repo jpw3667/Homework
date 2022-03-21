@@ -14,9 +14,9 @@ namespace HW3_LinkedLists
     // happening.
     enum CardSuit
     {
-        Hearts,
-        Spades,
-        Diamonds,
+       // Hearts,
+      //  Spades,
+      //  Diamonds,
         Clubs
     }
 

@@ -34,8 +34,19 @@ namespace HW3_LinkedLists
         {
             get
             {
-                // TODO: IMPLEMENT THIS (but you should really implement Add and test it using the debugger first!)
-                return null; // TMP so starter code compiles
+                if (index > count)
+                {
+                    throw new IndexOutOfRangeException("Index is out of range");
+                }
+                else                  
+                {
+                    Card temp = head;
+                    for (int i = 1; i < count; i++)
+                    {
+                        temp = temp.Next;
+                    }
+                    return temp;
+                }
             }
         }
 
@@ -45,7 +56,19 @@ namespace HW3_LinkedLists
         /// </summary>
         public void Add(CardSuit suit, CardRank rank)
         {
-            // TODO: IMPLEMENT THIS (and test it by checking the Deck contents using the debugger!)
+            Card newCard = new Card(suit, rank);
+            if(count == 0)
+            {
+                head = newCard;
+                tail = newCard;
+            }
+            else
+            {
+                tail.Next = newCard;
+                newCard.Previous = tail;
+                tail = newCard;  
+            }
+            count++;
         }
 
 
@@ -56,7 +79,14 @@ namespace HW3_LinkedLists
         /// </summary>
         public void Print()
         {
-            // TODO: IMPLEMENT THIS
+            Card temp = head;
+            Console.WriteLine("{0} of {1}", temp.Rank, temp.Suit);
+            for (int i = 1; i < count; i++)
+            {
+                temp = temp.Next;
+                Console.WriteLine("{0} of {1}", temp.Rank, temp.Suit);
+                
+            }
         }
 
         /// <summary>
@@ -66,7 +96,13 @@ namespace HW3_LinkedLists
         /// </summary>
         public void PrintReversed()
         {
-            // TODO: IMPLEMENT THIS
+            Card temp = tail;
+            Console.WriteLine("{0} of {1}", temp.Rank, temp.Suit);
+            for (int i = count; i > 1 ; i--)
+            {
+                temp = temp.Previous;
+                Console.WriteLine("{0} of {1}", temp.Rank, temp.Suit);
+            }
         }
 
         /// <summary>
@@ -75,7 +111,9 @@ namespace HW3_LinkedLists
         /// </summary>
         public void Clear()
         {
-            // TODO: IMPLEMENT THIS
+            count = 0;
+            head = null;
+            tail = null;
         }
 
         /// <summary>
@@ -93,8 +131,15 @@ namespace HW3_LinkedLists
         /// </summary>
         public List<Deck> DealPlayerHands(int playerCount)
         {
-            // TODO: IMPLEMENT THIS
-            return null; // TMP so starter code compiles
+            List<Deck> playerHands = new List<Deck>();
+            int cardsPerHand = count / playerCount;
+            for (int i = 0; i < playerCount; i++)
+            {
+                Deck tempDeck = new Deck();
+                Card tempCard = head;
+                
+            }
+            return playerHands;
         }
 
         /// <summary>

@@ -48,7 +48,7 @@ namespace HW3_LinkedLists
                             {
                                 foreach (CardRank rank in Enum.GetValues(typeof(CardRank)))
                                 {
-                                    myDeck.Add(suit, rank);
+                                        myDeck.Add(suit, rank);
                                 }
                             }
                             break;
